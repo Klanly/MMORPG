@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3199972543
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2e6e578791e1ee5a163e9c3a40b319c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 470c1af1c724562a5047c7d9683d59a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/baoshi_wuqi_mingzhong_003.prefab
+Dependencies: []

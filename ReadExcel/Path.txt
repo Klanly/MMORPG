@@ -1,0 +1,4 @@
+CreateDataPath = E:\Project\Unity3D 5.6.2f1\MMORPG_2\Data\
+CreateCSOrLuaPath = E:\Project\Unity3D 5.6.2f1\MMORPG_2\Assets\Script\Data\LocalData\
+
+NPCDataXinShouCun = NPCData

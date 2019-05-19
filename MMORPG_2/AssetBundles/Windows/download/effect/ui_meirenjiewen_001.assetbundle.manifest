@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2036558532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be766b79724023abdcf4526f4b8c319b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d35f8d1a55cfb28942e7509014437f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/ui_meirenjiewen_001.prefab
+Dependencies: []

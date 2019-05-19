@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 930567415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3a737d13aad6bf9f557bc38d65d194c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee73b33256d19a7b11cf3c4f5d93c05f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Monster/Monster_000_wudunv_001.prefab
+Dependencies: []

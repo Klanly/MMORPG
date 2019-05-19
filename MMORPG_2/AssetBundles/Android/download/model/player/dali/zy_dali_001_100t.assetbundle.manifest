@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2123301149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2ea8045458ea42aec8fef4d8d1f33c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ee73b33256d19a7b11cf3c4f5d93c05f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Player/DaLi/Zy_dali_001_100t.prefab
+Dependencies: []

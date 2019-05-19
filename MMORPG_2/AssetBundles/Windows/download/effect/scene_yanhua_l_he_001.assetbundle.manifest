@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1704815421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d93d5088702cef9d991d0c7e275e8314
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fde1fe4ae64c7aaf25b07e650f639cc5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9eaddd977521474688fea87b2704aae, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/scene_yanhua_L_he_001.prefab
+Dependencies: []

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Menu MenuId="636736850480255016" MenuName="测试" HasChild="true">
+    <Proto ProtoID="636736850772561735" ProtoCode="10001" ProtoEnName="Test" ProtoCnName="测试协议" ProtoDesc="">
+      <Attr AttID="636736852950536310" AttType="int" AttEnName="Id" AttCnName="编号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636736852950536311" AttType="string" AttEnName="Name" AttCnName="名称" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636736852950536312" AttType="int" AttEnName="Type" AttCnName="类型" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636736852950536313" AttType="float" AttEnName="Price" AttCnName="价格" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+  </Menu>
+  <Menu MenuId="636759271280797072" MenuName="邮件" HasChild="true">
+    <Proto ProtoID="636759271442796338" ProtoCode="10002" ProtoEnName="MailRequest" ProtoCnName="邮件(请求)" ProtoDesc="" />
+    <Proto ProtoID="636759276926860008" ProtoCode="50002" ProtoEnName="MailResponse" ProtoCnName="邮件(返回)" ProtoDesc="">
+      <Attr AttID="636759318431943965" AttType="int" AttEnName="MailCount" AttCnName="邮件数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636759318431943966" AttType="MailItem" AttEnName="Mail" AttCnName="邮件项" AttIsLoop="false" AttToLoop="MailCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636759318431943967" AttType="int" AttEnName="Id" AttCnName="邮件Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Mail" />
+      <Attr AttID="636759318431943968" AttType="string" AttEnName="Content" AttCnName="邮件内容" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Mail" />
+      <Attr AttID="636759318431943969" AttType="bool" AttEnName="IsRead" AttCnName="是否已读" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Mail" />
+    </Proto>
+  </Menu>
+  <Menu MenuId="636759282800905984" MenuName="背包" HasChild="true">
+    <Proto ProtoID="636759282873650145" ProtoCode="10301" ProtoEnName="BagListRequest" ProtoCnName="背包列表(请求)" ProtoDesc="" />
+    <Proto ProtoID="636759283968262753" ProtoCode="50301" ProtoEnName="BagListResponse" ProtoCnName="背包列表(返回)" ProtoDesc="" />
+  </Menu>
+  <Menu MenuId="636771470403092401" MenuName="账号" HasChild="true">
+    <Proto ProtoID="636771470464405908" ProtoCode="10101" ProtoEnName="AccountRegisterRequest" ProtoCnName="账号注册(请求)" ProtoDesc="">
+      <Attr AttID="636771884655753215" AttType="string" AttEnName="Account" AttCnName="账号名" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636771884655753216" AttType="string" AttEnName="Pwd" AttCnName="密码" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636771884655753217" AttType="string" AttEnName="Channel" AttCnName="渠道号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772355096040807" AttType="string" AttEnName="DeviceIdentifier" AttCnName="设备标识符" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772355096040808" AttType="string" AttEnName="DeviceModel" AttCnName="设备型号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636771880852795696" ProtoCode="50101" ProtoEnName="AccountRegisterResponse" ProtoCnName="账号注册(返回)" ProtoDesc="">
+      <Attr AttID="636771885627818814" AttType="bool" AttEnName="IsSuccess" AttCnName="是否注册成功" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636771885627818815" AttType="int" AttEnName="MsgCode" AttCnName="消息码" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772388247666971" AttType="int" AttEnName="UserId" AttCnName="用户编号" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636772258220589843" ProtoCode="10102" ProtoEnName="AccountLogOnRequest" ProtoCnName="账号登录(请求)" ProtoDesc="">
+      <Attr AttID="636772259512363730" AttType="string" AttEnName="UserName" AttCnName="用户名" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772259512363731" AttType="string" AttEnName="Pwd" AttCnName="密码" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772355462171748" AttType="string" AttEnName="DeviceIdentifier" AttCnName="设备标识符" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772355462171749" AttType="string" AttEnName="DeviceModel" AttCnName="设备型号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636772259569356988" ProtoCode="50102" ProtoEnName="AccountLogOnResponse" ProtoCnName="账号登录(返回)" ProtoDesc="">
+      <Attr AttID="636772260914683939" AttType="bool" AttEnName="IsSuccess" AttCnName="是否成功" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772260914683940" AttType="int" AttEnName="MsgCode" AttCnName="错误码" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636772388505071693" AttType="int" AttEnName="UserId" AttCnName="用户编号" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636773748955679073" ProtoCode="10111" ProtoEnName="GameServerPageRequest" ProtoCnName="请求服务器组列表(请求)" ProtoDesc="" />
+    <Proto ProtoID="636773751307323580" ProtoCode="50111" ProtoEnName="GameServerPageResponse" ProtoCnName="请求服务器组列表(返回)" ProtoDesc="10个服为一组&#xD;&#xA;格式：11 - 20 服&#xD;&#xA;1 - 10 服">
+      <Attr AttID="636773758259561227" AttType="int" AttEnName="ItemCount" AttCnName="服务器组数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636773758259561228" AttType="GameServerPageItem" AttEnName="ServerPageItem" AttCnName="单组服务器信息" AttIsLoop="false" AttToLoop="ItemCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636773758259561229" AttType="int" AttEnName="PageIndex" AttCnName="单组下标" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerPageItem" />
+      <Attr AttID="636773762494333445" AttType="string" AttEnName="PageServerName" AttCnName="单组名称" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerPageItem" />
+    </Proto>
+    <Proto ProtoID="636774903027677184" ProtoCode="10112" ProtoEnName="GameServerOnePageRequest" ProtoCnName="请求服务器单组列表(请求)" ProtoDesc="">
+      <Attr AttID="636774904300319977" AttType="int" AttEnName="PageIndex" AttCnName="页数" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636774904371144026" ProtoCode="50112" ProtoEnName="GameServerOnePageResponse" ProtoCnName="请求服务器单组列表(返回)" ProtoDesc="每组列表最多10个">
+      <Attr AttID="636774906174277161" AttType="int" AttEnName="ItemCount" AttCnName="单组服务器数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636774907936837975" AttType="GameServerOnePageItem" AttEnName="ServerOnePageItem" AttCnName="单个服务器信息" AttIsLoop="false" AttToLoop="ItemCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636775669246925472" AttType="int" AttEnName="ServerId" AttCnName="服务器Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318830" AttType="int" AttEnName="Status" AttCnName="服务器状态" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318831" AttType="int" AttEnName="RunState" AttCnName="运行状态" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318832" AttType="bool" AttEnName="IsCommand" AttCnName="是否推荐" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318833" AttType="bool" AttEnName="IsNew" AttCnName="是否是新服" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318834" AttType="string" AttEnName="Name" AttCnName="服务器名称" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318835" AttType="string" AttEnName="Ip" AttCnName="服务器IP" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+      <Attr AttID="636774912672318836" AttType="int" AttEnName="Port" AttCnName="服务器端口号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="ServerOnePageItem" />
+    </Proto>
+  </Menu>
+  <Menu MenuId="636775708392314456" MenuName="角色" HasChild="true">
+    <Proto ProtoID="636775708672010454" ProtoCode="10201" ProtoEnName="RoleLogOnGameServerRequest" ProtoCnName="登录区服(请求)" ProtoDesc="">
+      <Attr AttID="636775709978755197" AttType="int" AttEnName="AccountId" AttCnName="" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636775710068840348" ProtoCode="50201" ProtoEnName="RoleLogOnGameServerResponse" ProtoCnName="登录区服(返回)" ProtoDesc="">
+      <Attr AttID="636775712082175506" AttType="int" AttEnName="RoleCount" AttCnName="已有角色数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636775712082175507" AttType="RoleItem" AttEnName="Role" AttCnName="角色项" AttIsLoop="false" AttToLoop="RoleCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636775712082175508" AttType="int" AttEnName="RoleId" AttCnName="角色编号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Role" />
+      <Attr AttID="636775712082175509" AttType="string" AttEnName="RoleNickName" AttCnName="角色昵称" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Role" />
+      <Attr AttID="636775712082175510" AttType="byte" AttEnName="RoleJob" AttCnName="角色职业" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Role" />
+      <Attr AttID="636775712082175511" AttType="int" AttEnName="RoleLevel" AttCnName="角色等级" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="Role" />
+    </Proto>
+    <Proto ProtoID="636775712262985846" ProtoCode="10202" ProtoEnName="RoleCreateRequest" ProtoCnName="创建角色(请求)" ProtoDesc="">
+      <Attr AttID="636775712948625064" AttType="byte" AttEnName="JobId" AttCnName="职业Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636775712948625065" AttType="string" AttEnName="RoleName" AttCnName="角色名称" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636775713006658381" ProtoCode="50202" ProtoEnName="RoleCreateResponse" ProtoCnName="创建角色(返回)" ProtoDesc="">
+      <Attr AttID="636775713860007192" AttType="bool" AttEnName="IsSuccess" AttCnName="是否创建成功" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636775713860007193" AttType="int" AttEnName="MsgCode" AttCnName="消息码" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636793561754962812" ProtoCode="10203" ProtoEnName="RoleInfoRequest" ProtoCnName="角色信息(请求)" ProtoDesc="客户端请求角色信息协议">
+      <Attr AttID="636793562604391399" AttType="int" AttEnName="RoleId" AttCnName="角色编号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636793562659224533" ProtoCode="50203" ProtoEnName="RoleInfoResponse" ProtoCnName="角色信息(返回)" ProtoDesc="服务端返回角色信息">
+      <Attr AttID="636793567024224199" AttType="bool" AttEnName="IsSuccess" AttCnName="是否成功" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636793567024224200" AttType="int" AttEnName="MsgCode" AttCnName="消息码" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636793567024224201" AttType="int" AttEnName="RoleId" AttCnName="角色编号" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793606599157758" AttType="int" AttEnName="JobId" AttCnName="职业编号" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793567024224202" AttType="string" AttEnName="NickName" AttCnName="角色昵称" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793567024224203" AttType="int" AttEnName="Sex" AttCnName="角色性别" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103935" AttType="int" AttEnName="Level" AttCnName="等级" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103936" AttType="int" AttEnName="Money" AttCnName="元宝" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103937" AttType="int" AttEnName="Gold" AttCnName="金币" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103938" AttType="int" AttEnName="Exp" AttCnName="经验" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103939" AttType="int" AttEnName="MaxHP" AttCnName="最大血量" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103940" AttType="int" AttEnName="CurrHP" AttCnName="当前血量" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103941" AttType="int" AttEnName="MaxMP" AttCnName="最大法力" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103942" AttType="int" AttEnName="CurrMP" AttCnName="当前法力" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103943" AttType="int" AttEnName="Attack" AttCnName="攻击" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103944" AttType="int" AttEnName="AttackAddition" AttCnName="攻击加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103945" AttType="int" AttEnName="Defense" AttCnName="物理防御" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103946" AttType="int" AttEnName="DefenseAddition" AttCnName="物理防御加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103947" AttType="int" AttEnName="Res" AttCnName="魔法防御" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103948" AttType="int" AttEnName="ResAddition" AttCnName="魔法防御加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103949" AttType="int" AttEnName="Hit" AttCnName="命中" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103950" AttType="int" AttEnName="HitAddition" AttCnName="命中加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103951" AttType="int" AttEnName="Dodge" AttCnName="闪避" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103952" AttType="int" AttEnName="DodgeAddition" AttCnName="闪避加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103953" AttType="int" AttEnName="Cri" AttCnName="必杀" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103954" AttType="int" AttEnName="CriAddition" AttCnName="必杀加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103955" AttType="int" AttEnName="Fighting" AttCnName="战斗力" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636793589748103956" AttType="int" AttEnName="FightingAddition" AttCnName="战斗力加成" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+      <Attr AttID="636797914479125493" AttType="int" AttEnName="LastInWorldMapId" AttCnName="最后进入的世界地图编号" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="true" AttToCus="" />
+    </Proto>
+  </Menu>
+  <Menu MenuId="636827093400677404" MenuName="技能" HasChild="true">
+    <Proto ProtoID="636827093498793016" ProtoCode="31001" ProtoEnName="RoleSkillDataResponse" ProtoCnName="角色技能主动通知协议" ProtoDesc="角色技能主动通知协议">
+      <Attr AttID="636827095981245006" AttType="byte" AttEnName="SkillCount" AttCnName="学会的技能数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636827095981245007" AttType="SkillData" AttEnName="CurrSkillData" AttCnName="当前学会的技能" AttIsLoop="false" AttToLoop="SkillCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636827095981245008" AttType="int" AttEnName="SkillId" AttCnName="技能编号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="CurrSkillData" />
+      <Attr AttID="636827095981245009" AttType="int" AttEnName="SkillLevel" AttCnName="技能等级" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="CurrSkillData" />
+      <Attr AttID="636827095981245010" AttType="byte" AttEnName="SlotsNode" AttCnName="技能槽编号" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="CurrSkillData" />
+    </Proto>
+  </Menu>
+  <Menu MenuId="636929467567190327" MenuName="关卡" HasChild="true">
+    <Proto ProtoID="636929467891048851" ProtoCode="10401" ProtoEnName="GameLevelEnterRequest" ProtoCnName="客户端发送进去游戏关卡消息" ProtoDesc="">
+      <Attr AttID="636929469360122879" AttType="int" AttEnName="GameChapterId" AttCnName="游戏Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636929469360122880" AttType="byte" AttEnName="Grade" AttCnName="难度等级" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937738043669741" AttType="int" AttEnName="GameLevelId" AttCnName="章节关卡Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636929469948046505" ProtoCode="50401" ProtoEnName="GameLevelEnterResponse" ProtoCnName="服务器返回关卡消息" ProtoDesc="">
+      <Attr AttID="636929470566561884" AttType="bool" AttEnName="IsSuccess" AttCnName="是否进入成功" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636929470566561885" AttType="int" AttEnName="MsgCode" AttCnName="消息码" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636937724076385396" ProtoCode="10402" ProtoEnName="GameLevelSuccessRequest" ProtoCnName="客户端发送战斗胜利协议" ProtoDesc="客户端发送战斗胜利协议">
+      <Attr AttID="636937728609236857" AttType="int" AttEnName="GameLevelId" AttCnName="游戏关卡Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236858" AttType="byte" AttEnName="Grade" AttCnName="难度等级" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236859" AttType="byte" AttEnName="Star" AttCnName="获得星级" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236860" AttType="int" AttEnName="Exp" AttCnName="获得经验" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236861" AttType="int" AttEnName="Gold" AttCnName="获得金币" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236862" AttType="int" AttEnName="KillTotalMonsterCount" AttCnName="杀怪数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236863" AttType="MonsterItem" AttEnName="KillMonster" AttCnName="杀怪列表" AttIsLoop="false" AttToLoop="KillTotalMonsterCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236864" AttType="int" AttEnName="MonsterId" AttCnName="怪物id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="KillMonster" />
+      <Attr AttID="636937728609236865" AttType="int" AttEnName="MonsterCount" AttCnName="怪数量" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="KillMonster" />
+      <Attr AttID="636937728609236866" AttType="int" AttEnName="GoodsTotalCount" AttCnName="获得物品数量" AttIsLoop="true" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236867" AttType="GoodsItem" AttEnName="GetGoods" AttCnName="获得物品" AttIsLoop="false" AttToLoop="GoodsTotalCount" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937728609236868" AttType="byte" AttEnName="GoodsType" AttCnName="物品类型" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="GetGoods" />
+      <Attr AttID="636937728609236869" AttType="int" AttEnName="GoodsId" AttCnName="物品Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="GetGoods" />
+      <Attr AttID="636937728609236870" AttType="int" AttEnName="GoodsCount" AttCnName="物品数量" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="GetGoods" />
+      <Attr AttID="636937891896339820" AttType="int" AttEnName="ChapterId" AttCnName="章节Id" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+    <Proto ProtoID="636937728854429836" ProtoCode="50402" ProtoEnName="GameLevelSuccessResponse" ProtoCnName="服务器返回关卡胜利协议" ProtoDesc="服务器返回关卡胜利协议">
+      <Attr AttID="636937729594739018" AttType="bool" AttEnName="IsSuccess" AttCnName="是否胜利" AttIsLoop="false" AttToLoop="" AttToBool="" AttToBoolResult="false" AttToCus="" />
+      <Attr AttID="636937729594739019" AttType="int" AttEnName="MsgCode" AttCnName="消息码" AttIsLoop="false" AttToLoop="" AttToBool="IsSuccess" AttToBoolResult="false" AttToCus="" />
+    </Proto>
+  </Menu>
+</Root>

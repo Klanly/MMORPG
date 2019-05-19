@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1217629960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ac7968c782a4f06ba100752008fadc7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Scene/Scene_HangZhou.unity
+Dependencies: []

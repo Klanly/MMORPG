@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 687501ec107820942b2d61afee9b54b9
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Allplane
+    100002: Dummy02
+    100004: Dummy03
+    100006: Dummy04
+    100008: Dummy05
+    100010: Dummy06
+    100012: Dummy07
+    100014: Dummy08
+    100016: Dummy09
+    100018: Dummy10
+    100020: Dummy11
+    100022: Dummy12
+    100024: Dummy13
+    100026: Dummy14
+    100028: Dummy15
+    100030: Dummy16
+    100032: Dummy17
+    100034: Dummy18
+    100036: fatjump
+    100038: fatrun
+    100040: fatrun01
+    100042: fatstand
+    100044: fatstand01
+    100046: fatstand02
+    100048: jump
+    100050: //RootNode
+    100052: run
+    100054: run01
+    100056: stand
+    100058: stand01
+    100060: swordjump
+    100062: swordrun
+    100064: swordrun1
+    100066: swordstand
+    100068: swordstand01
+    100070: swordstand02
+    400000: Allplane
+    400002: Dummy02
+    400004: Dummy03
+    400006: Dummy04
+    400008: Dummy05
+    400010: Dummy06
+    400012: Dummy07
+    400014: Dummy08
+    400016: Dummy09
+    400018: Dummy10
+    400020: Dummy11
+    400022: Dummy12
+    400024: Dummy13
+    400026: Dummy14
+    400028: Dummy15
+    400030: Dummy16
+    400032: Dummy17
+    400034: Dummy18
+    400036: fatjump
+    400038: fatrun
+    400040: fatrun01
+    400042: fatstand
+    400044: fatstand01
+    400046: fatstand02
+    400048: jump
+    400050: //RootNode
+    400052: run
+    400054: run01
+    400056: stand
+    400058: stand01
+    400060: swordjump
+    400062: swordrun
+    400064: swordrun1
+    400066: swordstand
+    400068: swordstand01
+    400070: swordstand02
+    4300000: fatjump
+    4300002: fatrun
+    4300004: fatstand
+    4300006: fatstand01
+    4300008: jump
+    4300010: run
+    4300012: stand
+    4300014: swordjump
+    4300016: swordrun
+    4300018: swordrun1
+    4300020: swordstand
+    4300022: stand01
+    4300024: fatstand02
+    4300026: fatrun01
+    4300028: run01
+    4300030: swordstand01
+    4300032: swordstand02
+    7400000: Opening
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: fatjump
+    13700002: fatrun
+    13700004: fatrun01
+    13700006: fatstand
+    13700008: fatstand01
+    13700010: fatstand02
+    13700012: jump
+    13700014: run
+    13700016: run01
+    13700018: stand
+    13700020: stand01
+    13700022: swordjump
+    13700024: swordrun
+    13700026: swordrun1
+    13700028: swordstand
+    13700030: swordstand01
+    13700032: swordstand02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Opening
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 77
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Allplane
+        weight: 1
+      - path: Allplane/Dummy02
+        weight: 1
+      - path: Allplane/Dummy03
+        weight: 1
+      - path: Allplane/Dummy04
+        weight: 1
+      - path: Allplane/Dummy05
+        weight: 1
+      - path: Allplane/Dummy06
+        weight: 1
+      - path: Allplane/Dummy07
+        weight: 1
+      - path: Allplane/Dummy08
+        weight: 1
+      - path: Allplane/Dummy09
+        weight: 1
+      - path: Allplane/Dummy10
+        weight: 1
+      - path: Allplane/Dummy11
+        weight: 1
+      - path: Allplane/Dummy12
+        weight: 1
+      - path: Allplane/Dummy13
+        weight: 1
+      - path: Allplane/Dummy14
+        weight: 1
+      - path: Allplane/Dummy15
+        weight: 1
+      - path: Allplane/Dummy16
+        weight: 1
+      - path: Allplane/Dummy17
+        weight: 1
+      - path: Allplane/Dummy18
+        weight: 1
+      - path: fatjump
+        weight: 1
+      - path: fatrun
+        weight: 1
+      - path: fatrun01
+        weight: 1
+      - path: fatstand
+        weight: 1
+      - path: fatstand01
+        weight: 1
+      - path: fatstand02
+        weight: 1
+      - path: jump
+        weight: 1
+      - path: run
+        weight: 1
+      - path: run01
+        weight: 1
+      - path: stand
+        weight: 1
+      - path: stand01
+        weight: 1
+      - path: swordjump
+        weight: 1
+      - path: swordrun
+        weight: 1
+      - path: swordrun1
+        weight: 1
+      - path: swordstand
+        weight: 1
+      - path: swordstand01
+        weight: 1
+      - path: swordstand02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

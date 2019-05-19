@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4158341586
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e047543931a20a1362150911b2be43a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 145e7bd2af91f05919f095591075b73e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Player/TianShan/Zy_tianshan_002_90t_erhai.prefab
+Dependencies: []

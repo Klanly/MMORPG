@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1983094381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7cf0b2798aa49fc543a89c04cb6135f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36397bee5d7a567c3c86a5ce94da5635
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56629253e21c7b248b31392f326044a6, type: 3}
+Assets:
+- Assets/Download/Effect/skill_qinggong_001.prefab
+Dependencies: []

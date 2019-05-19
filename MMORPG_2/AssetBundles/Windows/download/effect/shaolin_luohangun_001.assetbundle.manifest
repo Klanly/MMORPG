@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3062675745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c0d44a543e0d1afc4ff157f76abdaa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aef936bf98bacc3523f22d87458962ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc5563ecb7e29ea4bb42a6266df0e390, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/shaolin_luohangun_001.prefab
+Dependencies: []

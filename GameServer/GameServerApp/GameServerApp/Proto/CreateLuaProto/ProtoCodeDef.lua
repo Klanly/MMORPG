@@ -1,0 +1,27 @@
+ProtoCode=
+{
+    Test = 10001,
+    MailRequest = 10002,
+    MailResponse = 50002,
+    BagListRequest = 10301,
+    BagListResponse = 50301,
+    AccountRegisterRequest = 10101,
+    AccountRegisterResponse = 50101,
+    AccountLogOnRequest = 10102,
+    AccountLogOnResponse = 50102,
+    GameServerPageRequest = 10111,
+    GameServerPageResponse = 50111,
+    GameServerOnePageRequest = 10112,
+    GameServerOnePageResponse = 50112,
+    RoleLogOnGameServerRequest = 10201,
+    RoleLogOnGameServerResponse = 50201,
+    RoleCreateRequest = 10202,
+    RoleCreateResponse = 50202,
+    RoleInfoRequest = 10203,
+    RoleInfoResponse = 50203,
+    RoleSkillDataResponse = 31001,
+    GameLevelEnterRequest = 10401,
+    GameLevelEnterResponse = 50401,
+    GameLevelSuccessRequest = 10402,
+    GameLevelSuccessResponse = 50402
+}

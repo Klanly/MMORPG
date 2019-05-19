@@ -1,0 +1,904 @@
+ManifestFileVersion: 0
+CRC: 756642251
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: download/scene/scene_selectrole.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: download/model/back.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: download/model/boss.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: download/model/lootitem.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: download/model/newguide.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: download/model/snareobj.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: download/model/teleport.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: download/model/fuben/fb_banghui_jubaopen01.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: download/model/fuben/fb_banghui_jubaopen02.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: download/model/fuben/fb_banghui_jubaopen03.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: download/model/fuben/fb_banghui_jubaopen04.assetbundle
+      Dependencies: {}
+    Info_11:
+      Name: download/model/fuben/fb_banghui_jubaopen05.assetbundle
+      Dependencies: {}
+    Info_12:
+      Name: download/model/fuben/fb_banghui_qizi01.assetbundle
+      Dependencies: {}
+    Info_13:
+      Name: download/model/fuben/fb_banghui_qizi02.assetbundle
+      Dependencies: {}
+    Info_14:
+      Name: download/model/fuben/fb_banghui_qizi03.assetbundle
+      Dependencies: {}
+    Info_15:
+      Name: download/model/fuben/fb_banghui_qizi04.assetbundle
+      Dependencies: {}
+    Info_16:
+      Name: download/model/fuben/fb_banghui_qizi05.assetbundle
+      Dependencies: {}
+    Info_17:
+      Name: download/model/fuben/fb_yanziwu_mutouren_01.assetbundle
+      Dependencies: {}
+    Info_18:
+      Name: download/model/fuben/fb_zhandou_miyanzhu.assetbundle
+      Dependencies: {}
+    Info_19:
+      Name: download/model/fuben/fb_zhandou_shibei.assetbundle
+      Dependencies: {}
+    Info_20:
+      Name: download/model/fuben/npc_001_caoyao_001.assetbundle
+      Dependencies: {}
+    Info_21:
+      Name: download/model/fuben/npc_001_jiutan_001.assetbundle
+      Dependencies: {}
+    Info_22:
+      Name: download/model/fuben/npc_001_youshishuangxiong_001_dun.assetbundle
+      Dependencies: {}
+    Info_23:
+      Name: download/model/monster/monster_000_wudunv_001.assetbundle
+      Dependencies: {}
+    Info_24:
+      Name: download/model/monster/monster_001_cike_001.assetbundle
+      Dependencies: {}
+    Info_25:
+      Name: download/model/monster/monster_001_zonglang_001.assetbundle
+      Dependencies: {}
+    Info_26:
+      Name: download/model/monster/monster_001_zonglang_002.assetbundle
+      Dependencies: {}
+    Info_27:
+      Name: download/model/monster/monster_002_zonglang_001.assetbundle
+      Dependencies: {}
+    Info_28:
+      Name: download/model/mount/qicheng_001_baima_001.assetbundle
+      Dependencies: {}
+    Info_29:
+      Name: download/model/mount/qicheng_001_baima_002.assetbundle
+      Dependencies: {}
+    Info_30:
+      Name: download/model/mount/qicheng_001_baima_003.assetbundle
+      Dependencies: {}
+    Info_31:
+      Name: download/model/mount/qicheng_001_bendiao_001.assetbundle
+      Dependencies: {}
+    Info_32:
+      Name: download/model/mount/qicheng_001_bendiao_002.assetbundle
+      Dependencies: {}
+    Info_33:
+      Name: download/model/mount/qicheng_001_fenghuang_001.assetbundle
+      Dependencies: {}
+    Info_34:
+      Name: download/model/mount/qicheng_001_jiehunmache_001.assetbundle
+      Dependencies: {}
+    Info_35:
+      Name: download/model/mount/qicheng_001_qilin_001.assetbundle
+      Dependencies: {}
+    Info_36:
+      Name: download/model/mount/qicheng_001_qilin_002.assetbundle
+      Dependencies: {}
+    Info_37:
+      Name: download/model/mount/qicheng_001_shishizi_001.assetbundle
+      Dependencies: {}
+    Info_38:
+      Name: download/model/mount/qicheng_001_shizi_001.assetbundle
+      Dependencies: {}
+    Info_39:
+      Name: download/model/mount/qicheng_001_xiongmao_001.assetbundle
+      Dependencies: {}
+    Info_40:
+      Name: download/model/mount/qicheng_test.assetbundle
+      Dependencies: {}
+    Info_41:
+      Name: download/model/npc/animal/bear/npc_001_xiong_001.assetbundle
+      Dependencies: {}
+    Info_42:
+      Name: download/model/npc/animal/bear/npc_001_xiong_002.assetbundle
+      Dependencies: {}
+    Info_43:
+      Name: download/model/npc/animal/bird/npc_001_fenghuang_001.assetbundle
+      Dependencies: {}
+    Info_44:
+      Name: download/model/npc/animal/bird/npc_001_xiaodiao_001.assetbundle
+      Dependencies: {}
+    Info_45:
+      Name: download/model/npc/animal/duck/npc_001_xiaohuangya_001.assetbundle
+      Dependencies: {}
+    Info_46:
+      Name: download/model/npc/animal/fox/npc_001_huohu_001/npc_001_huohu_001.assetbundle
+      Dependencies: {}
+    Info_47:
+      Name: download/model/npc/animal/leopard/npc_001_baozi_001.assetbundle
+      Dependencies: {}
+    Info_48:
+      Name: download/model/npc/animal/leopard/npc_001_baozi_002.assetbundle
+      Dependencies: {}
+    Info_49:
+      Name: download/model/npc/animal/leopard/npc_001_baozi_003.assetbundle
+      Dependencies: {}
+    Info_50:
+      Name: download/model/npc/animal/mouse/npc_001_shandiandiao_001.assetbundle
+      Dependencies: {}
+    Info_51:
+      Name: download/model/npc/animal/tiger/npc_001_hu_001.assetbundle
+      Dependencies: {}
+    Info_52:
+      Name: download/model/npc/animal/tiger/npc_001_hu_002.assetbundle
+      Dependencies: {}
+    Info_53:
+      Name: download/model/npc/animal/tiger/npc_001_qiongqi_001.assetbundle
+      Dependencies: {}
+    Info_54:
+      Name: download/model/npc/animal/tiger/npc_001_shizi_001.assetbundle
+      Dependencies: {}
+    Info_55:
+      Name: download/model/npc/animal/tiger/npc_001_shizi_002.assetbundle
+      Dependencies: {}
+    Info_56:
+      Name: download/model/npc/man/fat/no_weapon/npc_000_mawude_001.assetbundle
+      Dependencies: {}
+    Info_57:
+      Name: download/model/npc/man/fat/no_weapon/npc_001_baobutong_001.assetbundle
+      Dependencies: {}
+    Info_58:
+      Name: download/model/npc/man/fat/no_weapon/npc_001_baobutong_002.assetbundle
+      Dependencies: {}
+    Info_59:
+      Name: download/model/npc/man/fat/no_weapon/npc_001_baobutong_003.assetbundle
+      Dependencies: {}
+    Info_60:
+      Name: download/model/npc/man/fat/no_weapon/npc_001_zhuwanli_001.assetbundle
+      Dependencies: {}
+    Info_61:
+      Name: download/model/npc/man/fat/one_sword/npc_001_nanhaieshen_001.assetbundle
+      Dependencies: {}
+    Info_62:
+      Name: download/model/npc/man/fat/twohand_longweapon/npc_001_heliantieshu_001.assetbundle
+      Dependencies: {}
+    Info_63:
+      Name: download/model/npc/man/matureman/broadsword/npc_001_daozei_001.assetbundle
+      Dependencies: {}
+    Info_64:
+      Name: download/model/npc/man/matureman/broadsword/npc_001_qinjiasailuoluo_001.assetbundle
+      Dependencies: {}
+    Info_65:
+      Name: download/model/npc/man/matureman/broadsword/npc_001_zhongwanchou_001.assetbundle
+      Dependencies: {}
+    Info_66:
+      Name: download/model/npc/man/matureman/magic/npc_001_xiaoyaozi_001.assetbundle
+      Dependencies: {}
+    Info_67:
+      Name: download/model/npc/man/matureman/magic/npc_001_yuanguqihun_001.assetbundle
+      Dependencies: {}
+    Info_68:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_baishijing_001.assetbundle
+      Dependencies: {}
+    Info_69:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_duanyu_001.assetbundle
+      Dependencies: {}
+    Info_70:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_jiumozhi_001.assetbundle
+      Dependencies: {}
+    Info_71:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_mingwangsuicong_001.assetbundle
+      Dependencies: {}
+    Info_72:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_simalin_002.assetbundle
+      Dependencies: {}
+    Info_73:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_xingsudizi_001.assetbundle
+      Dependencies: {}
+    Info_74:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_xuzhu_001.assetbundle
+      Dependencies: {}
+    Info_75:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_youtanzhi_001.assetbundle
+      Dependencies: {}
+    Info_76:
+      Name: download/model/npc/man/matureman/no_weapon/npc_001_zhudanchen_001.assetbundle
+      Dependencies: {}
+    Info_77:
+      Name: download/model/npc/man/matureman/no_weapon/npc_002_daozei_001.assetbundle
+      Dependencies: {}
+    Info_78:
+      Name: download/model/npc/man/matureman/no_weapon/npc_yanmenguan_matureman.assetbundle
+      Dependencies: {}
+    Info_79:
+      Name: download/model/npc/man/matureman/one_longweapon/npc_000_laifu_001.assetbundle
+      Dependencies: {}
+    Info_80:
+      Name: download/model/npc/man/matureman/one_longweapon/npc_001_dingchunqiu_001.assetbundle
+      Dependencies: {}
+    Info_81:
+      Name: download/model/npc/man/matureman/one_longweapon/npc_001_saodiseng_001.assetbundle
+      Dependencies: {}
+    Info_82:
+      Name: download/model/npc/man/matureman/one_longweapon/npc_002_laifu_001.assetbundle
+      Dependencies: {}
+    Info_83:
+      Name: download/model/npc/man/matureman/one_longweapon/npc_003_laifu_001.assetbundle
+      Dependencies: {}
+    Info_84:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_jianzongdizi_001.assetbundle
+      Dependencies: {}
+    Info_85:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_jianzongdizi_002.assetbundle
+      Dependencies: {}
+    Info_86:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_murongbo_001.assetbundle
+      Dependencies: {}
+    Info_87:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_murongfu_002.assetbundle
+      Dependencies: {}
+    Info_88:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_murongfu_003.assetbundle
+      Dependencies: {}
+    Info_89:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_simalin_001.assetbundle
+      Dependencies: {}
+    Info_90:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_yunzhonghe_001.assetbundle
+      Dependencies: {}
+    Info_91:
+      Name: download/model/npc/man/matureman/one_sword/npc_001_zuozimu_001.assetbundle
+      Dependencies: {}
+    Info_92:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_gaibangpantu_001.assetbundle
+      Dependencies: {}
+    Info_93:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_nvzhenlieren_001.assetbundle
+      Dependencies: {}
+    Info_94:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_quanguanqing_001.assetbundle
+      Dependencies: {}
+    Info_95:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_shennongbanglouluo_001.assetbundle
+      Dependencies: {}
+    Info_96:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_shennongbanglouluo_002.assetbundle
+      Dependencies: {}
+    Info_97:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_songbing_001.assetbundle
+      Dependencies: {}
+    Info_98:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_xixiabubing_001.assetbundle
+      Dependencies: {}
+    Info_99:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_yipintanggaoshou_001.assetbundle
+      Dependencies: {}
+    Info_100:
+      Name: download/model/npc/man/matureman/twohand_longweapon/npc_001_yipintangqibing_001.assetbundle
+      Dependencies: {}
+    Info_101:
+      Name: download/model/npc/man/midget/magic/npc_001_laoheshang_001.assetbundle
+      Dependencies: {}
+    Info_102:
+      Name: download/model/npc/man/midget/no_weapon/npc_001_jianghuxieshi_001.assetbundle
+      Dependencies: {}
+    Info_103:
+      Name: download/model/npc/man/midget/one_longweapon/npc_001_xuzhanglao_001.assetbundle
+      Dependencies: {}
+    Info_104:
+      Name: download/model/npc/man/special/npc_001_duanyanqing_001.assetbundle
+      Dependencies: {}
+    Info_105:
+      Name: download/model/npc/man/special/npc_001_xiaoxueren_001.assetbundle
+      Dependencies: {}
+    Info_106:
+      Name: download/model/npc/man/strong/no_weapon/npc_001_shaolintongren_001.assetbundle
+      Dependencies: {}
+    Info_107:
+      Name: download/model/npc/man/strong/no_weapon/npc_001_xiaoyuanshan_001.assetbundle
+      Dependencies: {}
+    Info_108:
+      Name: download/model/npc/man/strong/no_weapon/npc_001_youshishuangxiong_001.assetbundle
+      Dependencies: {}
+    Info_109:
+      Name: download/model/npc/man/strong/no_weapon/npc_001_youshishuangxiong_002.assetbundle
+      Dependencies: {}
+    Info_110:
+      Name: download/model/npc/man/strong/no_weapon/npc_004_daozei_001.assetbundle
+      Dependencies: {}
+    Info_111:
+      Name: download/model/npc/man/strong/no_weapon/npc_yanmenguan_strong.assetbundle
+      Dependencies: {}
+    Info_112:
+      Name: download/model/npc/man/strong/one_sword/npc_000_daoke_001.assetbundle
+      Dependencies: {}
+    Info_113:
+      Name: download/model/npc/man/strong/one_sword/npc_001_fengboe_001.assetbundle
+      Dependencies: {}
+    Info_114:
+      Name: download/model/npc/man/strong/one_sword/npc_001_liaobing_001.assetbundle
+      Dependencies: {}
+    Info_115:
+      Name: download/model/npc/man/strong/one_sword/npc_001_xixiawushi_001.assetbundle
+      Dependencies: {}
+    Info_116:
+      Name: download/model/npc/man/strong/twohand_longweapon/npc_001_kurongdashi_001.assetbundle
+      Dependencies: {}
+    Info_117:
+      Name: download/model/npc/man/strong/twohand_longweapon/npc_003_daozei_001.assetbundle
+      Dependencies: {}
+    Info_118:
+      Name: download/model/npc/woman/loli/no_weapon/npc_001_tianshantonglao_001.assetbundle
+      Dependencies: {}
+    Info_119:
+      Name: download/model/npc/woman/loli/no_weapon/npc_001_xiaoyaojieyin_001.assetbundle
+      Dependencies: {}
+    Info_120:
+      Name: download/model/npc/woman/loli/one_sword/npc_001_zhongling_001.assetbundle
+      Dependencies: {}
+    Info_121:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_daobaifeng_001.assetbundle
+      Dependencies: {}
+    Info_122:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_ganbaobao_001.assetbundle
+      Dependencies: {}
+    Info_123:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_kangmin_001.assetbundle
+      Dependencies: {}
+    Info_124:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_kangmin_002.assetbundle
+      Dependencies: {}
+    Info_125:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_liqingluo_001.assetbundle
+      Dependencies: {}
+    Info_126:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_qinhongmian_001.assetbundle
+      Dependencies: {}
+    Info_127:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_ruanxingzhu_001.assetbundle
+      Dependencies: {}
+    Info_128:
+      Name: download/model/npc/woman/maturefemale/magic/npc_001_wangyuyan_001.assetbundle
+      Dependencies: {}
+    Info_129:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_azhu_001.assetbundle
+      Dependencies: {}
+    Info_130:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_azhu_002.assetbundle
+      Dependencies: {}
+    Info_131:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_azi_001.assetbundle
+      Dependencies: {}
+    Info_132:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_lingjiugongbuzhong_001.assetbundle
+      Dependencies: {}
+    Info_133:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_lingjiugongbuzhong_002.assetbundle
+      Dependencies: {}
+    Info_134:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_lingjiugongshengshi_001.assetbundle
+      Dependencies: {}
+    Info_135:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_lingjiugongshengshi_002.assetbundle
+      Dependencies: {}
+    Info_136:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_liqiushui_001.assetbundle
+      Dependencies: {}
+    Info_137:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_mantuoshashou_001.assetbundle
+      Dependencies: {}
+    Info_138:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_menggu_001.assetbundle
+      Dependencies: {}
+    Info_139:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_muwanqing_001.assetbundle
+      Dependencies: {}
+    Info_140:
+      Name: download/model/npc/woman/maturefemale/one_sword/npc_001_yeerniang_001.assetbundle
+      Dependencies: {}
+    Info_141:
+      Name: download/model/npc/woman/midget/one_longweapon/npc_001_pingpopo_001.assetbundle
+      Dependencies: {}
+    Info_142:
+      Name: download/model/player/dali/dali_xsz.assetbundle
+      Dependencies: {}
+    Info_143:
+      Name: download/model/player/dali/sz_dali_001_jht.assetbundle
+      Dependencies: {}
+    Info_144:
+      Name: download/model/player/dali/sz_dali_001_tst.assetbundle
+      Dependencies: {}
+    Info_145:
+      Name: download/model/player/dali/sz_dali_001_xmt.assetbundle
+      Dependencies: {}
+    Info_146:
+      Name: download/model/player/dali/sz_dali_001_zshf.assetbundle
+      Dependencies: {}
+    Info_147:
+      Name: download/model/player/dali/sz_dali_xsz.assetbundle
+      Dependencies: {}
+    Info_148:
+      Name: download/model/player/dali/zy_dali_001_100t.assetbundle
+      Dependencies: {}
+    Info_149:
+      Name: download/model/player/dali/zy_dali_001_90t.assetbundle
+      Dependencies: {}
+    Info_150:
+      Name: download/model/player/dali/zy_dali_001_hlt.assetbundle
+      Dependencies: {}
+    Info_151:
+      Name: download/model/player/dali/zy_dali_001_jlt.assetbundle
+      Dependencies: {}
+    Info_152:
+      Name: download/model/player/dali/zy_dali_001_jwt.assetbundle
+      Dependencies: {}
+    Info_153:
+      Name: download/model/player/dali/zy_dali_001_ljt.assetbundle
+      Dependencies: {}
+    Info_154:
+      Name: download/model/player/dali/zy_dali_001_plt.assetbundle
+      Dependencies: {}
+    Info_155:
+      Name: download/model/player/dali/zy_dali_001_szt.assetbundle
+      Dependencies: {}
+    Info_156:
+      Name: download/model/player/dali/zy_dali_001_xdt.assetbundle
+      Dependencies: {}
+    Info_157:
+      Name: download/model/player/dali/zy_dali_001_xjt.assetbundle
+      Dependencies: {}
+    Info_158:
+      Name: download/model/player/dali/zy_dali_002_100t.assetbundle
+      Dependencies: {}
+    Info_159:
+      Name: download/model/player/dali/zy_dali_002_90t.assetbundle
+      Dependencies: {}
+    Info_160:
+      Name: download/model/player/dali/zy_dali_002_90t_erhai.assetbundle
+      Dependencies: {}
+    Info_161:
+      Name: download/model/player/dali/zy_dali_002_jlt.assetbundle
+      Dependencies: {}
+    Info_162:
+      Name: download/model/player/dali/zy_dali_002_jwt.assetbundle
+      Dependencies: {}
+    Info_163:
+      Name: download/model/player/dali/zy_dali_002_ljt.assetbundle
+      Dependencies: {}
+    Info_164:
+      Name: download/model/player/dali/zy_dali_002_plt.assetbundle
+      Dependencies: {}
+    Info_165:
+      Name: download/model/player/dali/zy_dali_002_szt.assetbundle
+      Dependencies: {}
+    Info_166:
+      Name: download/model/player/dali/zy_dali_002_xdt.assetbundle
+      Dependencies: {}
+    Info_167:
+      Name: download/model/player/shaolin/cloth_001_shaolin_001_005.assetbundle
+      Dependencies: {}
+    Info_168:
+      Name: download/model/player/shaolin/shaolinkong.assetbundle
+      Dependencies: {}
+    Info_169:
+      Name: download/model/player/shaolin/shaolin_xsz.assetbundle
+      Dependencies: {}
+    Info_170:
+      Name: download/model/player/shaolin/sz_shaolin_001_jht.assetbundle
+      Dependencies: {}
+    Info_171:
+      Name: download/model/player/shaolin/sz_shaolin_001_tst.assetbundle
+      Dependencies: {}
+    Info_172:
+      Name: download/model/player/shaolin/sz_shaolin_001_xmtt.assetbundle
+      Dependencies: {}
+    Info_173:
+      Name: download/model/player/shaolin/sz_shaolin_001_zshf.assetbundle
+      Dependencies: {}
+    Info_174:
+      Name: download/model/player/shaolin/sz_shaolin_xsz.assetbundle
+      Dependencies: {}
+    Info_175:
+      Name: download/model/player/shaolin/zy_shaolin_001_100t.assetbundle
+      Dependencies: {}
+    Info_176:
+      Name: download/model/player/shaolin/zy_shaolin_001_90t.assetbundle
+      Dependencies: {}
+    Info_177:
+      Name: download/model/player/shaolin/zy_shaolin_001_bht.assetbundle
+      Dependencies: {}
+    Info_178:
+      Name: download/model/player/shaolin/zy_shaolin_001_brt.assetbundle
+      Dependencies: {}
+    Info_179:
+      Name: download/model/player/shaolin/zy_shaolin_001_fht.assetbundle
+      Dependencies: {}
+    Info_180:
+      Name: download/model/player/shaolin/zy_shaolin_001_fjt.assetbundle
+      Dependencies: {}
+    Info_181:
+      Name: download/model/player/shaolin/zy_shaolin_001_lht.assetbundle
+      Dependencies: {}
+    Info_182:
+      Name: download/model/player/shaolin/zy_shaolin_001_slt.assetbundle
+      Dependencies: {}
+    Info_183:
+      Name: download/model/player/shaolin/zy_shaolin_001_xjt.assetbundle
+      Dependencies: {}
+    Info_184:
+      Name: download/model/player/shaolin/zy_shaolin_001_yjt.assetbundle
+      Dependencies: {}
+    Info_185:
+      Name: download/model/player/shaolin/zy_shaolin_002_100t.assetbundle
+      Dependencies: {}
+    Info_186:
+      Name: download/model/player/shaolin/zy_shaolin_002_90t.assetbundle
+      Dependencies: {}
+    Info_187:
+      Name: download/model/player/shaolin/zy_shaolin_002_90t_erhai.assetbundle
+      Dependencies: {}
+    Info_188:
+      Name: download/model/player/shaolin/zy_shaolin_002_bht.assetbundle
+      Dependencies: {}
+    Info_189:
+      Name: download/model/player/shaolin/zy_shaolin_002_brt.assetbundle
+      Dependencies: {}
+    Info_190:
+      Name: download/model/player/shaolin/zy_shaolin_002_fht.assetbundle
+      Dependencies: {}
+    Info_191:
+      Name: download/model/player/shaolin/zy_shaolin_002_fjt.assetbundle
+      Dependencies: {}
+    Info_192:
+      Name: download/model/player/shaolin/zy_shaolin_002_xjt.assetbundle
+      Dependencies: {}
+    Info_193:
+      Name: download/model/player/shaolin/zy_shaolin_002_yjt.assetbundle
+      Dependencies: {}
+    Info_194:
+      Name: download/model/player/tianshan/sz_tianshan_001_jht.assetbundle
+      Dependencies: {}
+    Info_195:
+      Name: download/model/player/tianshan/sz_tianshan_001_tst.assetbundle
+      Dependencies: {}
+    Info_196:
+      Name: download/model/player/tianshan/sz_tianshan_001_xmt.assetbundle
+      Dependencies: {}
+    Info_197:
+      Name: download/model/player/tianshan/sz_tianshan_001_zshf.assetbundle
+      Dependencies: {}
+    Info_198:
+      Name: download/model/player/tianshan/sz_tianshan_xsz.assetbundle
+      Dependencies: {}
+    Info_199:
+      Name: download/model/player/tianshan/tianshan_xsz.assetbundle
+      Dependencies: {}
+    Info_200:
+      Name: download/model/player/tianshan/zy_tianshan_001_100t.assetbundle
+      Dependencies: {}
+    Info_201:
+      Name: download/model/player/tianshan/zy_tianshan_001_90t.assetbundle
+      Dependencies: {}
+    Info_202:
+      Name: download/model/player/tianshan/zy_tianshan_001_fqt.assetbundle
+      Dependencies: {}
+    Info_203:
+      Name: download/model/player/tianshan/zy_tianshan_001_fyt.assetbundle
+      Dependencies: {}
+    Info_204:
+      Name: download/model/player/tianshan/zy_tianshan_001_hyt.assetbundle
+      Dependencies: {}
+    Info_205:
+      Name: download/model/player/tianshan/zy_tianshan_001_jyt.assetbundle
+      Dependencies: {}
+    Info_206:
+      Name: download/model/player/tianshan/zy_tianshan_001_tyt.assetbundle
+      Dependencies: {}
+    Info_207:
+      Name: download/model/player/tianshan/zy_tianshan_001_xyt.assetbundle
+      Dependencies: {}
+    Info_208:
+      Name: download/model/player/tianshan/zy_tianshan_001_ymt.assetbundle
+      Dependencies: {}
+    Info_209:
+      Name: download/model/player/tianshan/zy_tianshan_001_yxt.assetbundle
+      Dependencies: {}
+    Info_210:
+      Name: download/model/player/tianshan/zy_tianshan_002_100t.assetbundle
+      Dependencies: {}
+    Info_211:
+      Name: download/model/player/tianshan/zy_tianshan_002_90t.assetbundle
+      Dependencies: {}
+    Info_212:
+      Name: download/model/player/tianshan/zy_tianshan_002_90t_erhai.assetbundle
+      Dependencies: {}
+    Info_213:
+      Name: download/model/player/tianshan/zy_tianshan_002_fyt.assetbundle
+      Dependencies: {}
+    Info_214:
+      Name: download/model/player/tianshan/zy_tianshan_002_hyt.assetbundle
+      Dependencies: {}
+    Info_215:
+      Name: download/model/player/tianshan/zy_tianshan_002_jyt.assetbundle
+      Dependencies: {}
+    Info_216:
+      Name: download/model/player/tianshan/zy_tianshan_002_xyt.assetbundle
+      Dependencies: {}
+    Info_217:
+      Name: download/model/player/tianshan/zy_tianshan_002_ymt.assetbundle
+      Dependencies: {}
+    Info_218:
+      Name: download/model/player/tianshan/zy_tianshan_002_yxt.assetbundle
+      Dependencies: {}
+    Info_219:
+      Name: download/model/player/xiaoyao/cloth_001_xiaoyao_001_004.assetbundle
+      Dependencies: {}
+    Info_220:
+      Name: download/model/player/xiaoyao/sz_xiaoyao_001_jht.assetbundle
+      Dependencies: {}
+    Info_221:
+      Name: download/model/player/xiaoyao/sz_xiaoyao_001_tst.assetbundle
+      Dependencies: {}
+    Info_222:
+      Name: download/model/player/xiaoyao/sz_xiaoyao_001_xmt.assetbundle
+      Dependencies: {}
+    Info_223:
+      Name: download/model/player/xiaoyao/sz_xiaoyao_001_zshf.assetbundle
+      Dependencies: {}
+    Info_224:
+      Name: download/model/player/xiaoyao/sz_xiaoyao_xsz.assetbundle
+      Dependencies: {}
+    Info_225:
+      Name: download/model/player/xiaoyao/xiaoyao_xsz.assetbundle
+      Dependencies: {}
+    Info_226:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_100t.assetbundle
+      Dependencies: {}
+    Info_227:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_90t.assetbundle
+      Dependencies: {}
+    Info_228:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_czt.assetbundle
+      Dependencies: {}
+    Info_229:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_hyt.assetbundle
+      Dependencies: {}
+    Info_230:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_llt.assetbundle
+      Dependencies: {}
+    Info_231:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_lyt.assetbundle
+      Dependencies: {}
+    Info_232:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_mxt.assetbundle
+      Dependencies: {}
+    Info_233:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_qhlt.assetbundle
+      Dependencies: {}
+    Info_234:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_qyt.assetbundle
+      Dependencies: {}
+    Info_235:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_001_slt.assetbundle
+      Dependencies: {}
+    Info_236:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_100t.assetbundle
+      Dependencies: {}
+    Info_237:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_90t.assetbundle
+      Dependencies: {}
+    Info_238:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_90t_erhai.assetbundle
+      Dependencies: {}
+    Info_239:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_hyt.assetbundle
+      Dependencies: {}
+    Info_240:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_lyt.assetbundle
+      Dependencies: {}
+    Info_241:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_mxt.assetbundle
+      Dependencies: {}
+    Info_242:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_qhlt.assetbundle
+      Dependencies: {}
+    Info_243:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_qyt.assetbundle
+      Dependencies: {}
+    Info_244:
+      Name: download/model/player/xiaoyao/zy_xiaoyao_002_slt.assetbundle
+      Dependencies: {}
+    Info_245:
+      Name: download/model/weapon/dali_jian/jian_001_002.assetbundle
+      Dependencies: {}
+    Info_246:
+      Name: download/model/weapon/dali_jian/jian_002_001.assetbundle
+      Dependencies: {}
+    Info_247:
+      Name: download/model/weapon/dali_jian/jian_003_001.assetbundle
+      Dependencies: {}
+    Info_248:
+      Name: download/model/weapon/dali_jian/jian_004_001.assetbundle
+      Dependencies: {}
+    Info_249:
+      Name: download/model/weapon/dali_jian/jian_005_001.assetbundle
+      Dependencies: {}
+    Info_250:
+      Name: download/model/weapon/dali_jian/jian_006_001.assetbundle
+      Dependencies: {}
+    Info_251:
+      Name: download/model/weapon/dali_jian/jian_007_001.assetbundle
+      Dependencies: {}
+    Info_252:
+      Name: download/model/weapon/dali_jian/jian_008_001.assetbundle
+      Dependencies: {}
+    Info_253:
+      Name: download/model/weapon/dali_jian/jian_009_001.assetbundle
+      Dependencies: {}
+    Info_254:
+      Name: download/model/weapon/dali_jian/jian_010_001.assetbundle
+      Dependencies: {}
+    Info_255:
+      Name: download/model/weapon/dali_jian/jian_010_002.assetbundle
+      Dependencies: {}
+    Info_256:
+      Name: download/model/weapon/shaolin_gun/gun_001_001.assetbundle
+      Dependencies: {}
+    Info_257:
+      Name: download/model/weapon/shaolin_gun/gun_001_002.assetbundle
+      Dependencies: {}
+    Info_258:
+      Name: download/model/weapon/shaolin_gun/gun_001_003.assetbundle
+      Dependencies: {}
+    Info_259:
+      Name: download/model/weapon/shaolin_gun/gun_001_004.assetbundle
+      Dependencies: {}
+    Info_260:
+      Name: download/model/weapon/shaolin_gun/gun_001_005.assetbundle
+      Dependencies: {}
+    Info_261:
+      Name: download/model/weapon/shaolin_gun/gun_001_006.assetbundle
+      Dependencies: {}
+    Info_262:
+      Name: download/model/weapon/shaolin_gun/gun_001_007.assetbundle
+      Dependencies: {}
+    Info_263:
+      Name: download/model/weapon/shaolin_gun/gun_001_008.assetbundle
+      Dependencies: {}
+    Info_264:
+      Name: download/model/weapon/shaolin_gun/gun_001_009.assetbundle
+      Dependencies: {}
+    Info_265:
+      Name: download/model/weapon/shaolin_gun/gun_001_010.assetbundle
+      Dependencies: {}
+    Info_266:
+      Name: download/model/weapon/shaolin_gun/gun_002_010.assetbundle
+      Dependencies: {}
+    Info_267:
+      Name: download/model/weapon/tianshan_dao/dao_001_001_l.assetbundle
+      Dependencies: {}
+    Info_268:
+      Name: download/model/weapon/tianshan_dao/dao_001_001_r.assetbundle
+      Dependencies: {}
+    Info_269:
+      Name: download/model/weapon/tianshan_dao/dao_002_001_l.assetbundle
+      Dependencies: {}
+    Info_270:
+      Name: download/model/weapon/tianshan_dao/dao_002_001_r.assetbundle
+      Dependencies: {}
+    Info_271:
+      Name: download/model/weapon/tianshan_dao/dao_003_001_l.assetbundle
+      Dependencies: {}
+    Info_272:
+      Name: download/model/weapon/tianshan_dao/dao_003_001_r.assetbundle
+      Dependencies: {}
+    Info_273:
+      Name: download/model/weapon/tianshan_dao/dao_004_001_l.assetbundle
+      Dependencies: {}
+    Info_274:
+      Name: download/model/weapon/tianshan_dao/dao_004_001_r.assetbundle
+      Dependencies: {}
+    Info_275:
+      Name: download/model/weapon/tianshan_dao/dao_005_001_l.assetbundle
+      Dependencies: {}
+    Info_276:
+      Name: download/model/weapon/tianshan_dao/dao_005_001_r.assetbundle
+      Dependencies: {}
+    Info_277:
+      Name: download/model/weapon/tianshan_dao/dao_006_001_l.assetbundle
+      Dependencies: {}
+    Info_278:
+      Name: download/model/weapon/tianshan_dao/dao_006_001_r.assetbundle
+      Dependencies: {}
+    Info_279:
+      Name: download/model/weapon/tianshan_dao/dao_007_001_l.assetbundle
+      Dependencies: {}
+    Info_280:
+      Name: download/model/weapon/tianshan_dao/dao_007_001_r.assetbundle
+      Dependencies: {}
+    Info_281:
+      Name: download/model/weapon/tianshan_dao/dao_008_001_l.assetbundle
+      Dependencies: {}
+    Info_282:
+      Name: download/model/weapon/tianshan_dao/dao_008_001_r.assetbundle
+      Dependencies: {}
+    Info_283:
+      Name: download/model/weapon/tianshan_dao/dao_009_001_l.assetbundle
+      Dependencies: {}
+    Info_284:
+      Name: download/model/weapon/tianshan_dao/dao_009_001_r.assetbundle
+      Dependencies: {}
+    Info_285:
+      Name: download/model/weapon/tianshan_dao/dao_010_001_l.assetbundle
+      Dependencies: {}
+    Info_286:
+      Name: download/model/weapon/tianshan_dao/dao_010_001_r.assetbundle
+      Dependencies: {}
+    Info_287:
+      Name: download/model/weapon/tianshan_dao/dao_010_002_l.assetbundle
+      Dependencies: {}
+    Info_288:
+      Name: download/model/weapon/tianshan_dao/dao_010_002_r.assetbundle
+      Dependencies: {}
+    Info_289:
+      Name: download/model/weapon/xiaoyao_fu/fu_001_001.assetbundle
+      Dependencies: {}
+    Info_290:
+      Name: download/model/weapon/xiaoyao_fu/fu_002_001.assetbundle
+      Dependencies: {}
+    Info_291:
+      Name: download/model/weapon/xiaoyao_fu/fu_003_001.assetbundle
+      Dependencies: {}
+    Info_292:
+      Name: download/model/weapon/xiaoyao_fu/fu_004_001.assetbundle
+      Dependencies: {}
+    Info_293:
+      Name: download/model/weapon/xiaoyao_fu/fu_005_001.assetbundle
+      Dependencies: {}
+    Info_294:
+      Name: download/model/weapon/xiaoyao_fu/fu_006_001.assetbundle
+      Dependencies: {}
+    Info_295:
+      Name: download/model/weapon/xiaoyao_fu/fu_007_001.assetbundle
+      Dependencies: {}
+    Info_296:
+      Name: download/model/weapon/xiaoyao_fu/fu_008_001.assetbundle
+      Dependencies: {}
+    Info_297:
+      Name: download/model/weapon/xiaoyao_fu/fu_009_001.assetbundle
+      Dependencies: {}
+    Info_298:
+      Name: download/model/weapon/xiaoyao_fu/fu_010_001.assetbundle
+      Dependencies: {}
+    Info_299:
+      Name: download/model/weapon/xiaoyao_fu/fu_010_002.assetbundle
+      Dependencies: {}

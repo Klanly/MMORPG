@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2941504463
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5997814e4a0c5f90429fbed8b477d7ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e0c2639ceeb66000ea7d73cfa61fde67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Player/DaLi/Zy_dali_002_90t_erhai.prefab
+Dependencies: []

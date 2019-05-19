@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4158319159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5ef9f0f1fbbcb254f3e19ca1e5d3100b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef79b55503f0c3d1fd0e18e3bc5b391a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/SnareObj.prefab
+Dependencies: []

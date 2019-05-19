@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 1326244698
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a9beb258ce0cadda29b10ce3eb0c6561
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scene/SceneMap/Test_Fight.unity
+- Assets/Download/Scene/Scene_CunZhuang.unity
+Dependencies:
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/model/monster/monster_002_zonglang_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/model/player/dali/role_mainplayer_dali.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_attack_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_attack_002.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_attack_003.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_huadiweilao_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_liumaishenjian_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_liuxingganyue_003.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_wusuodunxing_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_xp_end_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_xp_loop_001.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_yituiweijin_002.assetbundle
+- E:/Project/Unity3D 5.6.2f1/MMORPG_2/Assets/../AssetBundles/Windows/download/effect/dali_yiyangzhi_001.assetbundle

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3358112488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c29be857a928127cdbe78ec496bc329
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bc5c78bb8784b182ef1121a247636950
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/scene_xue.prefab
+Dependencies: []

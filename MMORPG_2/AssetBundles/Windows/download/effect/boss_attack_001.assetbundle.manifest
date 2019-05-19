@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2989270682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc9444fc8dcdab3a637e5db4baa7fedc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 46ce25775a20659fe8384aa0b45d0a37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb436447a25fa8e489c1ad7b581e3357, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+Assets:
+- Assets/Download/Effect/boss_attack_001.prefab
+Dependencies: []

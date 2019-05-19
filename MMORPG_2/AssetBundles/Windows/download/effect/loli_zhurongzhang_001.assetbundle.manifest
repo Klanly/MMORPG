@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3642727432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab22878730880d886626c8cb55599079
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc00f61eb0e9fd63bfaf2c800d1f6425
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dad03ea456ca8af42bdfebac890c329c, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/loli_zhurongzhang_001.prefab
+Dependencies: []

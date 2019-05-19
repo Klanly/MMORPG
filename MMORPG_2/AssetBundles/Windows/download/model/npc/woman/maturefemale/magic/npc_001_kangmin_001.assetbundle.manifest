@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1876880570
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 442f1457c4260cf0b20a2e5a5cdedad6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83d5330f0b63de2b693b4a85735893ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Npc/Woman/MatureFemale/Magic/Npc_001_kangmin_001.prefab
+Dependencies: []

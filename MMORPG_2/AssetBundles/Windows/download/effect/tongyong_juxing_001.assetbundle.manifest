@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3612203365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7937c7149890cdfd8242119628562bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6cb9c53ccaf410b6d60af448dbc3b068
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/tongyong_juxing_001.prefab
+Dependencies: []

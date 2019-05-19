@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4049234611
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1aae6f03cdde007caddd297dcc71ff01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d4c71e3cb8b323659684a6297569a1a1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/shaolin_xp_End_001.prefab
+Dependencies: []

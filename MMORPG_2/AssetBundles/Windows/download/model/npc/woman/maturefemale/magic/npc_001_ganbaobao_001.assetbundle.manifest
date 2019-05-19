@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2841982061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aaa82cc76d38cb120bef26c8d79e1acf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83d5330f0b63de2b693b4a85735893ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Npc/Woman/MatureFemale/Magic/Npc_001_ganbaobao_001.prefab
+Dependencies: []

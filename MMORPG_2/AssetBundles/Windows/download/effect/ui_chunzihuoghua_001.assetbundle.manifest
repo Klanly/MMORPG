@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4293244870
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 446eceb6745e27f7e58f4f385a9070bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8dc98f2bc6f783904f426e25234c2d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/ui_chunzihuoghua_001.prefab
+Dependencies: []

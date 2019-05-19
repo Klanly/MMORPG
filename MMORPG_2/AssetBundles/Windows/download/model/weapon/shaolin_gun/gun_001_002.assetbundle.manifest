@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 922837341
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e5c7df7e3a7cd4d5737ca8e7f9f4afb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3856a0674c86c55f198254afdbef9cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Weapon/ShaoLin_Gun/Gun_001_002.prefab
+Dependencies: []

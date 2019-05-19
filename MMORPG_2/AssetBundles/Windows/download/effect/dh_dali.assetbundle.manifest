@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2934398774
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3ab98496c96f47a29504c6d83ca218f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b87a7962a1b82f69a63f46b8c4439190
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 841b7718783fc4a41bee9448116642e0, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/dh_dali.prefab
+Dependencies: []

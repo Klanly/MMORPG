@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4069073871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b1abf36bad45d2434de50f24ad159e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc00f61eb0e9fd63bfaf2c800d1f6425
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41bcd4e8c69cd934cb3feabab24428bb, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/tianshan_xp_loop_001.prefab
+Dependencies: []

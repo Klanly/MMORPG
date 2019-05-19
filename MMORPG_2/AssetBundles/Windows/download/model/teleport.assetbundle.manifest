@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1283647244
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73fb7a9a1fb058c78bf3674aab3553c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: acc07eb359e7ba0373e21207cf5aa386
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29a66bca0fd31ab45ab751c761f66d0f, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Teleport.prefab
+Dependencies: []

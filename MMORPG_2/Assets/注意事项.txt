@@ -1,0 +1,13 @@
+Android:
+
+1:写入文件的时候,路径要替换
+path.Replace('\\','/')
+
+2:lua文件的路径要保存和存储卡路径一样 区分大小写
+downlaod/xLualogic
+
+3:Always Included Shaders 不能包含Standard相关shader (Edit/Project Settings/Graphics)
+因为添加了Standard 包体会变得非常大
+
+4:Shader Stripping 和 Fog Modes 选择Custom (Edit/Project Settings/Graphics)
+因为如果选择默认的Automatic 在手机上灯光贴图会丢失

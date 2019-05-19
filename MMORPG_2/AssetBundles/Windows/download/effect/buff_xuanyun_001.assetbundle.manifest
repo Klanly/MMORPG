@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3093193401
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2e05164e0e03ec9f139882da4a6b9d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fde1fe4ae64c7aaf25b07e650f639cc5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 955736b48e2797446927ea514119e232, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/buff_xuanyun_001.prefab
+Dependencies: []

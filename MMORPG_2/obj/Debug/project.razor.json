@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Project\\Unity3D 5.6.2f1\\MMORPG_2\\Assembly-CSharp-Editor.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

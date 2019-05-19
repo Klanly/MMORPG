@@ -1,0 +1,49 @@
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\bin\Debug\Data.xml
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\bin\Debug\ZipForge.xml
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\youyou_Proto.csprojResolveAssemblyReference.cache
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\Interop.XDocsDesigner.dll
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\youyou_Proto.csproj.ResolveComReference.cache
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\ReadExcel.frmModelEdit.resources
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\ReadExcel.frmMSG.resources
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\youyou_Proto.csproj.GenerateResource.Cache
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+F:\YouYouTools\Proto\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\Interop.XDocsDesigner.dll
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.ResolveComReference.cache
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\ReadExcel.frmModelEdit.resources
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\ReadExcel.frmMSG.resources
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.GenerateResource.Cache
+F:\YouYouTools\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.exe.config
+F:\YouYouTools\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.exe
+F:\YouYouTools\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.pdb
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.Properties.Resources.resources
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.exe
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.pdb
+F:\YouYouTools\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csprojResolveAssemblyReference.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.exe.config
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.exe
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.pdb
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csprojAssemblyReference.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.ResolveComReference.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\ReadExcel.frmModelEdit.resources
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\ReadExcel.frmMSG.resources
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.Properties.Resources.resources
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.GenerateResource.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.CoreCompileInputs.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.exe
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.pdb
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.exe.config
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.exe
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\bin\Debug\youyou_Proto.pdb
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.ResolveComReference.cache
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\ReadExcel.frmModelEdit.resources
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\ReadExcel.frmMSG.resources
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.Properties.Resources.resources
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.GenerateResource.cache
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.csproj.CoreCompileInputs.cache
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.exe
+E:\Project\VS2017 Project\youyou_Proto\youyou_Proto\obj\Debug\youyou_Proto.pdb

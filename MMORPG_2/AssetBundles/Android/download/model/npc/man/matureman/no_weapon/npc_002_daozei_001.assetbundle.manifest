@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2450739940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50da578820b7acd77745c062e17f5c31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83d5330f0b63de2b693b4a85735893ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Npc/Man/MatureMan/No_Weapon/Npc_002_daozei_001.prefab
+Dependencies: []

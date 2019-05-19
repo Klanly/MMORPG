@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1109153945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 444bae58e2ad9085d7b8b9d93c3d4826
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Download/Scene/Scene_SelectRole.unity
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3419986144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 751fdb55a007750b7b50fb73d26761a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b9a5da9a91e5af80b45767a9f16885e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9eaddd977521474688fea87b2704aae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44ba4c7a3b18aa343aa85d476231f4bd, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Effect/boss_yuanguqihun_001.prefab
+Dependencies: []

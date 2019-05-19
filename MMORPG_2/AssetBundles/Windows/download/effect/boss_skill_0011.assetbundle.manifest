@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2776007164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bd6d781077e538f596b568b9a90cfdc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4a026898f49f9f212ac90ffe6955d1d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 12
+  Script: {instanceID: 0}
+- Class: 15
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 26
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb436447a25fa8e489c1ad7b581e3357, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92d0dba4615c71d45bdbfd7c49b539ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc5563ecb7e29ea4bb42a6266df0e390, type: 3}
+Assets:
+- Assets/Download/Effect/boss_skill_0011.prefab
+Dependencies: []

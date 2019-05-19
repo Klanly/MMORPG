@@ -1,0 +1,46 @@
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.ExcelToByte.resources
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\Interop.XDocsDesigner.dll
+d:\documents\visual studio 2013\Projects\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2013\Projects\ReadExcel\ReadExcel\bin\Debug\ZipForge.dll
+D:\Documents\Visual Studio 2013\Projects\ReadExcel\ReadExcel\bin\Debug\ZipForge.xml
+F:\YouYouTools\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\Interop.XDocsDesigner.dll
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.ResolveComReference.cache
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+F:\YouYouTools\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+F:\YouYouTools\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.ExcelToByte.resources
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+F:\YouYouTools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.Cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojResolveAssemblyReference.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.ResolveComReference.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.ExcelToByte.resources
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CopyComplete
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+H:\Downloads\BaiduNetdisk Download\悠悠课堂资料\悠游课堂学习资料\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.ResolveComReference.cache
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.ExcelToByte.resources
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.cache
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CopyComplete
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+E:\Project\VS2017 Project\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb

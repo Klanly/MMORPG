@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2450282011
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc3bed88c3f3756bf9e4bd6335653ca6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 83d5330f0b63de2b693b4a85735893ef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Npc/Woman/MatureFemale/One_Sword/Npc_001_muwanqing_001.prefab
+Dependencies: []

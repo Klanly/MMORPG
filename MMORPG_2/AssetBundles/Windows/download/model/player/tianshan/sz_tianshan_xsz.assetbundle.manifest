@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 164650798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 916beabd7d63e9f39bacb0951605809e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b6f78336639cd557d0081c593e4c3c8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+Assets:
+- Assets/Download/Model/Player/TianShan/Sz_tianshan_xsz.prefab
+Dependencies: []
